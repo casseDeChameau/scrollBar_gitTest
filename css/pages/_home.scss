@@ -1,0 +1,16 @@
+.space-to-scroll {
+    text-align: center;
+    margin: 0 auto;
+    height: 400vh;
+    width: 80%;
+}
+
+.scrollBar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    background-color: red;
+    height: 10px;
+    width: 0%;
+}
